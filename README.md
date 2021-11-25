@@ -1,2 +1,3 @@
 # srujanprophet.github.io
-&lt;&lt; Minimal Personal Website >>
+
+Minimal Personal Website built with the help of Winbox.js
