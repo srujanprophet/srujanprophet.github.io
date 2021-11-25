@@ -30,6 +30,7 @@ h2 {
 }
 
 h3 {
+  color: #94fa36;
   margin-bottom: 10px;
 }
 
@@ -94,4 +95,17 @@ nav ul li {
   50% {
     color: var(--text-color);
   }
+}
+
+#indent {
+  text-indent: 20px;
+  font-size: 14px;
+}
+
+#items {
+  color: var(--text-color);
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
